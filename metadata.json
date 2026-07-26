@@ -1,0 +1,6 @@
+{
+  "name": "Sindh Through the Ages",
+  "description": "An interactive history learning journey exploring Sindh across key eras with decision-based story mode, Knowledge Points, and cultural artifact micro-lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
